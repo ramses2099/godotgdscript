@@ -1,0 +1,25 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1758290637
+icon.svg::CompressedTexture2D::3294683225711017242::1758287014::1758287020::1::::<><><>0<>0<>b0e3e7cc13dd08417549c568b872a702<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+player.tscn::PackedScene::2845242661165159286::1758290637::0::1::::<><><>0<>0<><>::uid://bkd5qmj7lgesy::::res://Assets/art/playerGrey_up1.png<>uid://ce63dtt012f7::::res://Scenes/player.gd<>uid://db10qn0lt55wm::::res://Assets/art/playerGrey_up2.png<>uid://c14pifje735jo::::res://Assets/art/playerGrey_walk1.png<>uid://bu3cdik0ih5oc::::res://Assets/art/playerGrey_walk2.png
+::res://Assets/::1758287055
+::res://Assets/art/::1758287056
+enemyFlyingAlt_1.png::CompressedTexture2D::8109090689432208139::1758287055::1758287056::1::::<><><>0<>0<>46a7559c5c6fd63e5bfad6e288935309<>res://.godot/imported/enemyFlyingAlt_1.png-c0e22111ca69846b985010ad1ef2c7e3.ctex::
+enemyFlyingAlt_2.png::CompressedTexture2D::3398926656211607454::1758287055::1758287056::1::::<><><>0<>0<>7a837b9840be05d23d01b546c4d59c8c<>res://.godot/imported/enemyFlyingAlt_2.png-a6b07404ca7ce537e03c48d5ec755b29.ctex::
+enemySwimming_1.png::CompressedTexture2D::5802369551457279521::1758287055::1758287056::1::::<><><>0<>0<>fceec024c52137d802c5f8a9395496f8<>res://.godot/imported/enemySwimming_1.png-626535f7f773fa64ebd8e426fab9bfd7.ctex::
+enemySwimming_2.png::CompressedTexture2D::3928241980763816721::1758287055::1758287056::1::::<><><>0<>0<>f56f264f068189629ff92edc37c07a77<>res://.godot/imported/enemySwimming_2.png-00153ce9172a37ab61debd2e24dd671d.ctex::
+enemyWalking_1.png::CompressedTexture2D::4688717462188311980::1758287055::1758287056::1::::<><><>0<>0<>4adaeee594d82517e2da914874697a40<>res://.godot/imported/enemyWalking_1.png-95a964ad305187e328852058421af918.ctex::
+enemyWalking_2.png::CompressedTexture2D::4345714610433207937::1758287055::1758287056::1::::<><><>0<>0<>bb3d648dd70034ebfd15fa8077614b99<>res://.godot/imported/enemyWalking_2.png-b88f5ca299aefc46138c1917fb1e6b5c.ctex::
+gameover.wav::AudioStreamWAV::479872538150167294::1758287055::1758287056::1::::<><><>0<>0<>31da0988f65273844ed306ab2338701d<>res://.godot/imported/gameover.wav-f1f5f29bbffc975accdb7737bdbc4871.sample::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::6292959907165275732::1758287055::1758287056::1::::<><><>0<>0<>0ec856b4c5024199ab23b2bddeda4d17<>res://.godot/imported/House In a Forest Loop.ogg-074a79c39ff6b8c8776f51b7e47d7327.oggvorbisstr::
+playerGrey_up1.png::CompressedTexture2D::3096352981473392300::1758287055::1758287056::1::::<><><>0<>0<>03ff6371c77bc2b22899f4b1755131a0<>res://.godot/imported/playerGrey_up1.png-3504d680aea98f30dcc46d029dc094a1.ctex::
+playerGrey_up2.png::CompressedTexture2D::7284671935794586544::1758287055::1758287056::1::::<><><>0<>0<>abc34f3806276bb4bc542dd6fa574a61<>res://.godot/imported/playerGrey_up2.png-9996f9ce522294d13e1fb8b1a5c1a385.ctex::
+playerGrey_walk1.png::CompressedTexture2D::6658543574831144152::1758287055::1758287056::1::::<><><>0<>0<>df64c03add04c7787163ff550e4531e2<>res://.godot/imported/playerGrey_walk1.png-c746af190c4cb48707fecd178608e783.ctex::
+playerGrey_walk2.png::CompressedTexture2D::3848127361716401966::1758287055::1758287056::1::::<><><>0<>0<>b29485b43a237e52dd1d1f66286e3e64<>res://.godot/imported/playerGrey_walk2.png-8e4e36c76f6fc94699dcc4e3b71e1d9f.ctex::
+::res://Assets/fonts/::1758287056
+FONTLOG.txt::TextFile::-1::1758287055::0::1::::<><><>0<>0<><>::
+LICENSE.txt::TextFile::-1::1758287055::0::1::::<><><>0<>0<><>::
+Xolonium-Regular.ttf::FontFile::8944018671177922617::1758287055::1758287056::1::::<><><>0<>0<>63f4160f18f5943cd6da2998f3270c89<>res://.godot/imported/Xolonium-Regular.ttf-1f22d0de995a0c3d573c30414a9a19bf.fontdata::
+::res://Scenes/::1758290636
+player.gd::GDScript::150567615116470454::1758290636::0::1::::<>Area2D<><>0<>0<><>::
+mob.tscn::PackedScene::8909483048431879514::1758290777::0::1::::<><><>0<>0<><>::
